@@ -1,0 +1,5 @@
+id;nome;quantidadeRefeicoes;periodicidade;valor
+P1;Plano Fit Semanal;5;SEMANAL;89.90
+P2;Plano Familia Semanal;10;SEMANAL;159.90
+P3;Plano Executivo Mensal;20;MENSAL;299.90
+P4;Plano Light Semanal;5;SEMANAL;79.90

@@ -1,0 +1,11 @@
+nome;descricao;categoria;disponivel
+Frango Grelhado com Legumes;Peito de frango e mix de legumes no vapor;PRATO_PRINCIPAL;true
+Salmao ao Molho de Ervas;File de salmao com arroz integral;PRATO_PRINCIPAL;true
+Strogonoff de Carne;Strogonoff com arroz branco;PRATO_PRINCIPAL;true
+Lasanha de Berinjela;Opcao vegetariana sem gluten;PRATO_PRINCIPAL;true
+Arroz Integral;Porcao de arroz integral;ACOMPANHAMENTO;true
+Salada Caesar;Folhas, croutons e molho caesar;ACOMPANHAMENTO;true
+Legumes Salteados;Mix de legumes salteados na manteiga;ACOMPANHAMENTO;true
+Mousse de Maracuja;Sobremesa cremosa de maracuja;SOBREMESA;true
+Salada de Frutas;Frutas da estacao picadas;SOBREMESA;true
+Brownie Fit;Brownie de cacau sem acucar;SOBREMESA;false
